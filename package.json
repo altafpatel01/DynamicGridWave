@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://altafpatel01.github.io/DynamicGridWave.git",
+  "homepage": "https://altafpatel01.github.io/DynamicGridWave",
 
   "scripts": {
     "dev": "vite",
